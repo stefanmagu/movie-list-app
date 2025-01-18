@@ -1,5 +1,12 @@
 # React + Vite
 
+![Screenshot 2025-01-18 170741](https://github.com/user-attachments/assets/9546f86f-27d5-4c5d-ad49-417b69da678b)
+
+![Screenshot 2025-01-18 170806](https://github.com/user-attachments/assets/d3d72a1a-3dad-4e9c-ac3d-ca3ffad5c93e)
+
+![Screenshot 2025-01-18 170846](https://github.com/user-attachments/assets/2de3e7c5-b4d3-46ee-8861-56218d7dd48b)
+
+
 # How to run the app
 
 In the terminal, run the following commands:
